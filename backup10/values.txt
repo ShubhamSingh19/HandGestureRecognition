@@ -1,0 +1,5 @@
+epoch 130
+light augmented
+changed smallervggnetwork(added 1 layer +1 layer)
+
+result=88.32,97.26
